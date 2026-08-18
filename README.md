@@ -1,77 +1,124 @@
 <!-- ========================================================= -->
 
-<!--                     GITHUB PROFILE README                  -->
+<!--                 PRATHAM — GITHUB PROFILE                  -->
 
 <!-- ========================================================= -->
 
-<!-- ==================== HERO ==================== -->
-
 <div align="center">
 
-# Hi, I'm Domain 👋
-
-### Software Developer in Progress · AI/ML Enthusiast · Creative Builder
-
-**Turning ideas I can visualize into systems I can build.**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=PRATHAM&fontSize=52&fontAlignY=35&desc=Software%20%7C%20AI%2FML%20%7C%20Creative%20Technology&descAlignY=55&descSize=17" alt="Pratham GitHub profile header">
 
 <br>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+### Building what I imagine.
+
+**Software Developer in Progress · AI/ML Enthusiast · Creative Builder**
+
+<br>
+
+<a href="https://github.com/domainkeeper">
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+&nbsp;
+<a href="https://www.linkedin.com/in/pratham82007/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+&nbsp;
+<a href="mailto:kaushik.pratham82007@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blueviolet" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=domainkeeper&style=flat-square&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
 ---
 
-<!-- ==================== IDENTITY ==================== -->
+<!-- ==================== INTRO ==================== -->
 
-## `01` — Who I Am
+## `01` — Hello, I'm Pratham
 
-I'm a **B.Tech CSE / AI-ML student** learning to turn ideas into real software.
+I'm a **B.Tech CSE / AI-ML student** interested in the intersection of **software development, artificial intelligence, and creative technology**.
 
-I'm interested in the space where **software engineering, AI, and creative technology** overlap. I enjoy taking an abstract idea, visualizing how it could work, breaking it into systems, and eventually turning it into a prototype.
+I like taking ideas that exist only as concepts in my head and figuring out how to turn them into something that actually works.
 
-I don't want my GitHub to be a list of technologies I have touched.
+A lot of the time, I think visually first:
 
-I want it to show **what I'm actually building, what I'm learning, and how I'm getting better.**
+```text
+        IDEA
+         ↓
+   VISUAL CONCEPT
+         ↓
+      SYSTEM
+         ↓
+     PROTOTYPE
+         ↓
+    IMPLEMENTATION
+         ↓
+      ITERATE
+```
 
-> **Idea → Visualize → Experiment → Build → Break → Understand → Rebuild**
+I'm still learning.
 
-I'm still developing my technical depth, and that's intentional. I learn best by building things that are slightly beyond what I currently know.
+I'm still building my fundamentals.
+
+And I'm definitely still going to break things.
+
+But that's exactly how I want to learn.
+
+---
+
+<!-- ==================== ABOUT ==================== -->
+
+## `02` — About Me
+
+I'm drawn to projects where **engineering and imagination overlap**.
+
+I enjoy:
+
+* Building software instead of only studying it
+* Exploring AI and practical AI systems
+* Solving DSA problems
+* Experimenting with web technologies
+* Designing unusual interfaces
+* Thinking about systems spatially and visually
+* Turning rough ideas into prototypes
+* Learning technologies by actually using them
+
+I don't want my GitHub to look like a list of technologies I once opened.
+
+I'd rather it show **the things I tried, the things I built, and the things I'm currently figuring out.**
+
+> *Some projects work. Some don't. Some turn into something completely different.*
+>
+> *All of them teach me something.*
 
 ---
 
 <!-- ==================== CURRENT FOCUS ==================== -->
 
-## `02` — Currently Exploring
+## `03` — Current Focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Software Development
+### ⚙️ Software Development
 
-* Programming fundamentals
+* Stronger programming fundamentals
 * Full-stack development
-* React & Vite
+* React
+* Vite
 * Backend development
 * REST APIs
 * Databases
-* Deployment & hosting
 * Git & GitHub
+* Deployment
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🧠 Computer Science
@@ -94,23 +141,24 @@ I'm still developing my technical depth, and that's intentional. I learn best by
 
 * Machine Learning fundamentals
 * NumPy
-* Practical AI applications
+* AI applications
 * AI agents
+* Practical AI systems
 * Model experimentation
-* AI-powered systems
 * Deep Learning exploration
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🎨 Creative Technology
 
 * Interactive websites
-* Motion & animation
-* Game-inspired interfaces
+* Motion
+* Game-inspired UI
 * Visual storytelling
-* Experimental UI
-* Spatial interfaces
+* Experimental interfaces
+* Spatial UI
 * Creative coding
 
 </td>
@@ -121,35 +169,32 @@ I'm still developing my technical depth, and that's intentional. I learn best by
 
 <!-- ==================== TECH STACK ==================== -->
 
-## `03` — Tech Stack
+## `04` — Things I'm Working With
 
-I'm **working with some of these technologies and actively learning others**. This isn't a list of things I've mastered.
+> Not everything below is something I've mastered.
+> Some are tools I use, others are technologies I'm actively learning.
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,sql" alt="Python, C++, C, JavaScript, SQL">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js" alt="Python, C++, C and JavaScript">
 </p>
+
+`SQL`
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" alt="HTML, CSS, JavaScript, React, Vite">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" alt="HTML, CSS, JavaScript, React and Vite">
 </p>
 
-### Backend & APIs
+### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,nodejs" alt="Flask and Node.js">
+<img src="https://skillicons.dev/icons?i=flask,postgres,sqlite" alt="Flask, PostgreSQL and SQLite">
 </p>
 
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite" alt="PostgreSQL and SQLite">
-</p>
-
-**Also exploring:** SQLAlchemy · REST APIs · deployment workflows
+`REST APIs` · `SQLAlchemy`
 
 ### AI / ML
 
@@ -157,7 +202,7 @@ I'm **working with some of these technologies and actively learning others**. Th
 <img src="https://skillicons.dev/icons?i=python,numpy,pytorch" alt="Python, NumPy and PyTorch">
 </p>
 
-**Focus:** ML fundamentals · AI applications · AI agents · practical experimentation
+`Machine Learning` · `AI Agents` · `AI Applications`
 
 ### Tools
 
@@ -167,361 +212,355 @@ I'm **working with some of these technologies and actively learning others**. Th
 
 ---
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
+<!-- ==================== PROJECTS ==================== -->
 
-## `04` — Featured Projects
-
-> **I learn by building.**
-
-The projects below represent different parts of the direction I'm exploring — AI, automation, software development, and creative technology.
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## `05` — Things I've Built
 
 ### 🤖 Social Media Agent
 
-An **AI / automation project** exploring how an agent can work with current news or content and generate social media posts according to a defined personality or style.
+An **AI / automation project** exploring how an agent can work with current news or content and generate social media posts according to a particular personality or style.
 
-**Exploring**
-
-`AI` `Automation` `APIs` `Python`
-
-<br>
+**Area:** AI · Automation · APIs · Content Generation
 
 <a href="https://github.com/Siddharthchandra123/Social-Media-Agent">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="View Social Media Agent repository">
+<img src="https://img.shields.io/badge/Repository-111111?style=flat-square&logo=github&logoColor=white" alt="Social Media Agent repository">
 </a>
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 🌾 Kishan Copilot
 
-A smart farming assistant concept focused on making agricultural information and assistance more accessible through AI.
+A smart farming assistant project exploring how AI can make agricultural information and assistance more accessible.
 
-The broader project explores areas such as weather, agricultural information, crop assistance, voice interaction, local-language accessibility, and potential messaging-based workflows.
+The broader concept includes areas such as:
 
-**Exploring**
+`Weather` · `Agricultural Information` · `Crop Assistance` · `AI Interaction`
 
-`AI` `Agriculture` `Automation` `APIs`
+with exploration around:
 
-<br>
+`Voice Support` · `Local Languages` · `Messaging-based Interaction`
 
 <a href="https://github.com/domainkeeper/KishanCopilot">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="View Kishan Copilot repository">
+<img src="https://img.shields.io/badge/Repository-111111?style=flat-square&logo=github&logoColor=white" alt="Kishan Copilot repository">
 </a>
 
-</td>
-</tr>
-</table>
+---
 
 ### 🎮 Creative Web Experiments
 
-I also build experimental web concepts where the **interface itself becomes part of the experience**.
+Not every project I build fits neatly into a conventional software category.
 
-Things I've explored include:
+I've experimented with:
 
-* Interactive storytelling
 * Game-like websites
-* 3D-feeling interfaces
+* Interactive storytelling
 * Pixel-art-inspired visuals
-* Retro aesthetics
-* Cyberpunk and futuristic themes
-* Arcane / fantasy-inspired interfaces
-* Motion and animation
-* Spatial UI concepts
+* Retro interfaces
+* Cyberpunk / futuristic aesthetics
+* Arcane-inspired environments
+* Motion-heavy interfaces
+* 3D-feeling web experiences
+* Experimental UI systems
 
-Some of these experiments become projects.
+The goal isn't just **"make a website."**
 
-Some become prototypes.
-
-Some get abandoned.
-
-That's part of the process.
+It's **"make the interface feel like something."**
 
 ---
 
-<!-- ==================== BUILDING PHILOSOPHY ==================== -->
+<!-- ==================== BUILD PHILOSOPHY ==================== -->
 
-## `05` — How I Build
+## `06` — How I Learn
 
-I don't want to simply consume tutorials and move on.
-
-I want to:
+I learn much better when I have something to build.
 
 ```text
-find something interesting
-        ↓
-imagine how it could work
-        ↓
-build a rough version
-        ↓
-break it
-        ↓
-figure out why
-        ↓
-understand the underlying concept
-        ↓
-build it better
+          "I wonder if I can build this."
+                         │
+                         ▼
+                    Start building
+                         │
+                         ▼
+                    Something breaks
+                         │
+                         ▼
+                  Why did it break?
+                         │
+                         ▼
+                   Learn the concept
+                         │
+                         ▼
+                    Fix the system
+                         │
+                         ▼
+                   Try something harder
 ```
 
-A failed prototype isn't necessarily wasted work.
+I don't want to endlessly consume tutorials without creating anything.
 
-Sometimes it tells me more about what I'm trying to build than a successful tutorial ever could.
-
-> **The goal isn't to avoid failed projects.
-> The goal is to make each failure more informative.**
+I'd rather **build something slightly beyond my current ability, struggle with it, understand the struggle, and come out knowing more than I did before.**
 
 ---
 
-<!-- ==================== WHAT I LIKE TO BUILD ==================== -->
+<!-- ==================== WHAT I BUILD ==================== -->
 
-## `06` — What I Like to Build
+## `07` — What I Like Building
 
-I gravitate toward projects that combine **usefulness with imagination**.
+I tend to gravitate toward projects that combine **technical systems with creativity**.
 
-* 🤖 AI-powered tools
-* ⚙️ Automation systems
-* 🧰 Developer utilities
-* 🌐 Interactive websites
-* 🎨 Visual experiments
-* 🎮 Game-inspired interfaces
-* 🧪 Experimental prototypes
-* 📖 Interactive storytelling
-* 🧩 Systems that solve small, annoying problems
-* 🔗 Projects where multiple technologies have to work together
-
-I'm especially interested in projects where the question isn't just:
-
-> *"Can this work?"*
-
-but also:
-
-> *"What could this become?"*
+| Area                | What interests me                                    |
+| ------------------- | ---------------------------------------------------- |
+| 🤖 AI               | AI-powered tools, agents, practical AI systems       |
+| ⚙️ Automation       | Removing repetitive work through software            |
+| 🌐 Web              | Interactive and unconventional web experiences       |
+| 🎨 Creative Coding  | Visual experiments and unusual interfaces            |
+| 🎮 Game-inspired UI | Interfaces that feel like experiences                |
+| 🧩 Developer Tools  | Small utilities that solve annoying problems         |
+| 📖 Storytelling     | Technology combined with narrative and worldbuilding |
+| 🧪 Experiments      | Ideas that may or may not become real projects       |
 
 ---
 
 <!-- ==================== DSA ==================== -->
 
-## `07` — DSA & Problem Solving
+## `08` — DSA & Problem Solving
 
-Data Structures & Algorithms are a major part of my current learning path.
+DSA is one of the biggest parts of my current development journey.
 
-### Areas I've worked with
+### Topics I've worked with
 
-`Arrays` · `Strings` · `Hashing` · `Two Pointers` · `Sliding Window` · `Prefix Sum`
+`Arrays` · `Strings` · `Hashing`
 
-`Binary Search` · `Sorting` · `Greedy` · `Dynamic Programming`
+`Two Pointers` · `Sliding Window` · `Prefix Sum`
 
-`Recursion` · `Backtracking` · `Linked Lists` · `Stacks` · `Queues`
+`Binary Search` · `Sorting` · `Greedy`
 
-`Heaps` · `Trees` · `Graphs` · `BFS` · `DFS`
+`Dynamic Programming` · `Recursion` · `Backtracking`
 
-`Monotonic Stack` · `Difference Arrays` · `Optimization`
+`Linked Lists` · `Stacks` · `Queues`
 
-### Problem Solving
+`Heaps` · `Trees` · `Graphs`
+
+`BFS` · `DFS` · `Monotonic Stack`
+
+`Difference Arrays` · `Optimization`
+
+### LeetCode
+
+<p align="center">
+
+<a href="https://leetcode.com/u/domainkeeper/">
+<img src="https://img.shields.io/badge/LeetCode-domainkeeper-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode profile">
+</a>
+
+</p>
 
 **Problems Solved:** `UPDATE THIS COUNT`
 
-I regularly practice problems on **LeetCode**, using problem solving as a way to strengthen both algorithmic thinking and programming fundamentals.
-
-<a href="YOUR_LEETCODE_URL">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-</a>
+I use problem solving to strengthen my understanding of algorithms, data structures, and computational thinking.
 
 ---
 
 <!-- ==================== LEARNING PATH ==================== -->
 
-## `08` — Current Learning Path
+## `09` — The Learning Path
 
 ```text
-                    SOFTWARE DEVELOPMENT
-                           │
-          ┌────────────────┼────────────────┐
-          ↓                ↓                ↓
-       Frontend          Backend          Data
-          │                │                │
-       React            Flask            SQL
-       Vite             APIs          PostgreSQL
-          │                │           SQLAlchemy
-          └────────────────┼────────────────┘
-                           ↓
-                    COMPUTER SCIENCE
-                           │
-          ┌────────────────┼────────────────┐
-          ↓                ↓                ↓
-         DSA              DBMS              OS
-          │                │                │
-          └────────────────┼────────────────┘
-                           ↓
-                         AI / ML
-                           │
-          ┌────────────────┼────────────────┐
-          ↓                ↓                ↓
-         NumPy             ML          AI Agents
-                           │
-                           ↓
-                  CREATIVE TECHNOLOGY
-                           │
-          ┌────────────────┼────────────────┐
-          ↓                ↓                ↓
-       Interactive       Motion         Visual
-         Web              UI          Experiences
+                    SOFTWARE
+                       │
+          ┌────────────┼────────────┐
+          │            │            │
+       Frontend      Backend       Data
+          │            │            │
+       React         Flask         SQL
+       Vite          APIs       PostgreSQL
+          │            │            │
+          └────────────┼────────────┘
+                       │
+                       ▼
+                COMPUTER SCIENCE
+                       │
+          ┌────────────┼────────────┐
+          │            │            │
+         DSA          DBMS          OS
+          │            │            │
+          └────────────┼────────────┘
+                       │
+                       ▼
+                     AI / ML
+                       │
+          ┌────────────┼────────────┐
+          │            │            │
+         NumPy         ML       AI Agents
+                       │
+                       ▼
+              CREATIVE TECHNOLOGY
+                       │
+          ┌────────────┼────────────┐
+          │            │            │
+      Interactive     Motion      Visual
+         Web           UI       Experiences
 ```
 
-This path is intentionally broad.
+The objective isn't to rush through the entire tree.
 
-The goal isn't to learn everything simultaneously — it's to gradually connect the pieces.
+It's to gradually connect the branches.
 
 ---
 
 <!-- ==================== EXPERIENCES ==================== -->
 
-## `09` — Experiences & Achievements
+## `10` — Experiences
 
-A space for the things I participate in outside regular coursework.
+A growing collection of things I've participated in and learned from.
 
 * 🏗️ Hackathons & innovation challenges
 * 💻 Coding competitions
 * 🧠 LeetCode contests
-* 🎓 Technical workshops
 * 🌐 Developer events
+* 🎓 Technical workshops
 * ☁️ Google Skills / Google Arcade activities
-* 🧪 AI-oriented project experiments
-* 🔓 Open-source & GitHub projects
+* 🤖 AI project experiments
+* 🔓 GitHub / open-source work
 
 ### Highlights
 
-> 🏆 **[Achievement / Competition]** — `[YEAR]`
-> *Add a verified achievement here.*
+> 🏆 **[Verified Achievement]** — `[YEAR]`
 
-> 🏗️ **[Hackathon / Event]** — `[YEAR]`
-> *Add project + result here.*
+> 🏗️ **[Hackathon / Competition]** — `[YEAR]`
 
 > 🎓 **[Program / Workshop]** — `[YEAR]`
-> *Add verified participation details here.*
 
-<!-- Keep this section factual. Replace placeholders only with verified information. -->
-
----
-
-<!-- ==================== ACTIVITY ==================== -->
-
-## `10` — Activity
-
-> **Building in public, one experiment at a time.**
-
-My GitHub activity is where the learning process becomes visible — repositories, experiments, fixes, unfinished ideas, and projects that gradually become better.
-
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&area=true" alt="GitHub contribution activity graph">
-  </a>
-</p>
+<!-- Add only verified achievements here. -->
 
 ---
 
-<!-- ==================== GITHUB STATS ==================== -->
+<!-- ==================== CONTRIBUTIONS ==================== -->
 
-## `11` — GitHub Snapshot
+## `11` — The Build Log
+
+> **Not just green squares. A visual record of things I tried to make.**
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=8" alt="Most used programming languages">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=domainkeeper&bg_color=0d1117&color=ffffff&line=8b5cf6&point=ffffff&area=true&hide_border=true"
+alt="GitHub contribution activity graph"
+
+>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub contribution streak">
+<sub>Every contribution is another iteration.</sub>
 </p>
 
-<!--
-These statistics are generated externally.
-If any service becomes unavailable, remove that component rather than
-replacing it with a fake or manually maintained statistic.
--->
+---
+
+<!-- ==================== GITHUB SNAPSHOT ==================== -->
+
+## `12` — GitHub Snapshot
+
+<p align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=domainkeeper&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
+alt="GitHub statistics"
+
+>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=domainkeeper&layout=compact&hide_border=true&langs_count=8&theme=transparent"
+alt="Most used programming languages"
+
+>
+
+</p>
 
 ---
 
 <!-- ==================== BEYOND CODE ==================== -->
 
-## `12` — Beyond Code
+## `13` — Beyond Code
 
 Technology is only one part of how I think.
 
-I'm strongly influenced by:
+### 🎨 Art & Visual Design
 
-* 🎨 Art & visual design
-* 🎬 Cinematic experiences
-* 🎮 Games
-* 📖 Storytelling & worldbuilding
-* 🌌 Visual imagination
-* 🧩 Systems and spatial thinking
-* 📚 Anime & manga
-* 🧪 Experimentation
+I'm interested in aesthetics, visual composition, and imagining how ideas can exist spatially.
 
-I often visualize an idea before I know how I'm going to implement it.
+### 🎮 Games
 
-That sometimes makes the implementation harder.
+Game interfaces, environments, interaction systems, and visual worlds are a major source of inspiration.
 
-It also makes the things I build more interesting to me.
+### 📖 Storytelling & Worldbuilding
+
+I like worlds with their own rules, visual language, atmosphere, and identity.
+
+### 🌌 Visual Thinking
+
+I often visualize something before I know how I'm going to implement it.
+
+Sometimes that makes development harder.
+
+Sometimes that's exactly what makes the result interesting.
 
 ---
 
-<!-- ==================== PERSONAL BRAND ==================== -->
+<!-- ==================== DIRECTION ==================== -->
 
-## `13` — The Direction
+## `14` — Where I'm Headed
 
-I don't have everything figured out yet.
+I don't want to become someone who simply knows a long list of technologies.
 
-I'm still learning fundamentals.
+I want to become someone who can look at an idea and think:
 
-I'm still discovering what kind of developer I want to become.
+> **"I can figure out how to build that."**
 
-I'm still going to build projects that don't work.
-
-But the direction is becoming clearer:
+The direction I'm working toward:
 
 ```text
-IMAGINATION
-     ↓
-   IDEAS
-     ↓
-  SYSTEMS
-     ↓
- EXPERIMENTS
-     ↓
-   SOFTWARE
+Software Development
+        +
+     AI / ML
+        +
+Creative Technology
+        ↓
+   Real Projects
 ```
 
-I'm interested in the point where **creative thinking becomes engineering**.
+I'm still figuring out exactly what that becomes.
+
+That's part of the process.
 
 ---
 
 <!-- ==================== CONNECT ==================== -->
 
-## `14` — Let's Connect
+## `15` — Connect
 
-If you're interested in **software development, AI, creative technology, experimentation, or building unusual things**, I'd be happy to connect.
+Interested in **software, AI, creative technology, experimentation, or building things that are a little unusual?**
+
+Let's connect.
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<a href="https://github.com/domainkeeper">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/pratham82007/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:kaushik.pratham82007@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
 
 </p>
@@ -532,16 +571,22 @@ If you're interested in **software development, AI, creative technology, experim
 
 <div align="center">
 
-### *Still learning. Still experimenting. Still turning ideas into things that work.*
+<br>
+
+### *I imagine it first. Then I figure out how to build it.*
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:4c4c4c&height=100&section=footer" alt="Footer">
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0d1117,100:24243e"
+alt="Profile footer"
+
+>
 
 </div>
 
 <!-- ========================================================= -->
 
-<!--                    END OF PROFILE README                   -->
+<!--                       END OF README                        -->
 
 <!-- ========================================================= -->
